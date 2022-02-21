@@ -2,7 +2,6 @@
 # 关系抽取任务，基于GPLinker
 # 文章介绍：https://kexue.fm/archives/8888
 # 数据集：http://ai.baidu.com/broad/download?dataset=sked
-# 最优f1=0.827
 
 import json
 import numpy as np
